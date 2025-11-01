@@ -1,6 +1,6 @@
 substitutions:
   name: jk-bms
-  bms0: "${name} bms0"
+  bms0: "${name} bms0
   bms1: "${name} bms1"
   device_description: "Monitor and control a JK-BMS via bluetooth"
   external_components_source: github://syssi/esphome-jk-bms@main
